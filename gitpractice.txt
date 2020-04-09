@@ -1,0 +1,5 @@
+sudo yum install net-tools
+sudo yum install telnet
+sudo yum remove net-tools
+sudo amazon-linux-extras install ansible2
+
