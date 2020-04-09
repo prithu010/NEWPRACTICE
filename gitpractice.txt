@@ -1,6 +1,5 @@
 sudo yum install net-tools
 sudo yum install telnet
 sudo yum remove net-tools
-EDIT MANUAL TEST
 sudo amazon-linux-extras install ansible2
 
