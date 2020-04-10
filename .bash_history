@@ -138,3 +138,19 @@ sudo su
 who ami
 whoami
 sudo su
+apt-get update
+sudo apt-get update
+help
+clear
+whoami
+sudo su
+man ls
+man qpt
+man apt
+man get
+sudo apt update
+sudo apt upgrade
+sudo apt install pinta
+sudo apt install telnet
+sudo apt search telnet
+sudo su
